@@ -1,5 +1,7 @@
 package DP;
 
+// ques: https://www.geeksforgeeks.org/problems/longest-common-substring1452/1
+
 public class LongestCommonSubstring {
     public int longCommSubstr(String s1, String s2) {
         String[][] dp = new String[s1.length()][s2.length()];
