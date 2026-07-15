@@ -1,7 +1,7 @@
 package ArrayString.SlidingWindow;
 import java.util.*;
 
-// ques:
+// ques: https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 
 public class LongestSubstringWithoutRepeatingCharacters {
     public int lengthOfLongestSubstring(String s) {

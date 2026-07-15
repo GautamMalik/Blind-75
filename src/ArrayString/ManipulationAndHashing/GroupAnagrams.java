@@ -4,6 +4,11 @@ import java.util.*;
 // ques: https://leetcode.com/problems/group-anagrams/description/
 
 public class GroupAnagrams {
+    // optimal
+    // pending
+
+
+    // brute force
     public List<List<String>> groupAnagrams(String[] strs) {
 
         Map<String,List<String>> map = new HashMap<>();
